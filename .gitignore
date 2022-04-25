@@ -1,12 +1,4 @@
 ﻿*.vs
-Temp/Assembly-CSharp.dll.hash
-Temp/CompilationLog.txt
-Temp/UnityLockfile
-Temp/UnityTempFile-619a5922715e84150b609ffbcdf7a644
-Temp/workerlic
-Temp/ProcessJobs/a380c5a562be95fd7bcdc555d922b5c3.bakert
-Temp/ProcessJobs/c14560beff8dd59a476ed3c1d813fc85.bakert
-Temp/__Backupscenes/0.backup
 UserSettings/EditorUserSettings.asset
 ProjectSettings/AudioManager.asset
 ProjectSettings/ClusterInputManager.asset
@@ -5201,7 +5193,7 @@ Library/PackageCache/com.unity.test-framework@1.1.29/Documentation~/images/playm
 Library/PackageCache/com.unity.test-framework@1.1.29/Documentation~/images/playmode-run-standalone.png
 Library/PackageCache/com.unity.test-framework@1.1.29/Documentation~/images/playmode-tab.png
 Library/PackageCache/com.unity.test-framework@1.1.29/Documentation~/images/test-runner-window.png
-Library/PackageCache/com.unity.test-framework@1.1.29/Documentation~/images/test-templates.png
+Library/PackageCache/com.unity.test-framework@1.1.29/Documentation~/images/test
 Library/PackageCache/com.unity.test-framework@1.1.29/Documentation~/images/tests-folder-assembly.png
 Library/PackageCache/com.unity.test-framework@1.1.29/UnityEditor.TestRunner/Api.meta
 Library/PackageCache/com.unity.test-framework@1.1.29/UnityEditor.TestRunner/AssemblyInfo.cs
@@ -7820,8 +7812,8 @@ Library/PackageCache/com.unity.ugui@1.0.0/Tests/Editor/Canvas/CanvasWidthAsserti
 Library/PackageCache/com.unity.ugui@1.0.0/Tests/Editor/Canvas/CanvasWidthAssertionErrorWithRectTransform.cs.meta
 Library/PackageCache/com.unity.ugui@1.0.0/Tests/Editor/Canvas/RootCanvasTests.cs
 Library/PackageCache/com.unity.ugui@1.0.0/Tests/Editor/Canvas/RootCanvasTests.cs.meta
-Library/PackageCache/com.unity.ugui@1.0.0/Tests/Editor/Canvas/UISystemProfilerAddMarkerWithNullObjectDoesNotCrash.cs
-Library/PackageCache/com.unity.ugui@1.0.0/Tests/Editor/Canvas/UISystemProfilerAddMarkerWithNullObjectDoesNotCrash.cs.meta
+Library/PackageCache/com.unity.ugui@1.0.0/Tests/Editor/Canvas/UISy
+Library/PackageCache/com.unity.ugui@1.0.0/Tests/Editor/Canvas/UISy
 Library/PackageCache/com.unity.ugui@1.0.0/Tests/Editor/CanvasRenderer/ChangingHierarchyOfCanvasRenderer.cs
 Library/PackageCache/com.unity.ugui@1.0.0/Tests/Editor/CanvasRenderer/ChangingHierarchyOfCanvasRenderer.cs.meta
 Library/PackageCache/com.unity.ugui@1.0.0/Tests/Editor/CanvasRenderer/ParentCanvasIsSane.cs
@@ -8468,5 +8460,8 @@ Library/StateCache/PrefabStageHierarchy/46/4637af2a969af7b4bacdea9ea1fee7c7.json
 Library/StateCache/PrefabStageHierarchy/4f/4f31828e9ec567096d945787973e6b1d.json
 Library/StateCache/SceneView/7b/7b9afeabbb79a164482d07e719bf8d3a.json
 Library/StateCache/SceneView/b7/b7b7f5faa6f32462005f35dbf9a8686a.json
-Temp/UnityTempFile-4128e334ab79d4ba8af3d4875087d2f3
-Temp/UnityTempFile-b4d6114c6305f4b8db290db371918dfb
+Library/Artifacts/86/867129a227293660b41a913c814b1f33
+Library/Artifacts/a1/a1fdd5c1105c06cb6fa0d1dd29dc0ef0
+Library/Artifacts/*
+Temp/*
+Library/*
